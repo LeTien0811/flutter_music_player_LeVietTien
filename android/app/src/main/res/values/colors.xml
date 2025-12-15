@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1DB954</color>
+
+    <color name="notification_primary_text_color_light">#FF000000</color>
+    <color name="notification_secondary_text_color_light">#FF000000</color>
+
+    <color name="primary_text_default_material_light">#FF000000</color>
+    <color name="secondary_text_default_material_light">#FF000000</color>
+</resources>
