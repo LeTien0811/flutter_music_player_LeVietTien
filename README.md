@@ -96,8 +96,8 @@ dependencies:
 
 1. **Clone repository**
 ```bash
-git clone https://github.com/[username]/flutter_music_player_[your_name].git
-cd flutter_music_player_[your_name]
+git clone https://github.com/LeTien0811/flutter_music_player_LeVietTien.git
+cd flutter_music_player_LeVietTien
 ```
 
 2. **Cài đặt dependencies**
